@@ -11,5 +11,3 @@ a.appendChild(img);
 var body = document.getElementsByClassName("page_header")[0];
 body.align = "center"
 body.appendChild(a);
-
-System.import('https://raw.githubusercontent.com/zadamantiy/KitPro/main/kitpro.js');
